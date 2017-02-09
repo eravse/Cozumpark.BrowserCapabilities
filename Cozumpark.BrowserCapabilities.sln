@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cozumpark.BrowserCapabilities", "Cozumpark.BrowserCapabilities\Cozumpark.BrowserCapabilities.csproj", "{27F35EBC-B87A-458D-A8A4-F8A278B83AC0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cozumpark.BrowserCapabilities.Test", "Cozumpark.BrowserCapabilities.Test\Cozumpark.BrowserCapabilities.Test.csproj", "{D1A2C486-8B84-4CD9-9EFA-7DC22F55207C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27F35EBC-B87A-458D-A8A4-F8A278B83AC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27F35EBC-B87A-458D-A8A4-F8A278B83AC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27F35EBC-B87A-458D-A8A4-F8A278B83AC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27F35EBC-B87A-458D-A8A4-F8A278B83AC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D1A2C486-8B84-4CD9-9EFA-7DC22F55207C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1A2C486-8B84-4CD9-9EFA-7DC22F55207C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1A2C486-8B84-4CD9-9EFA-7DC22F55207C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1A2C486-8B84-4CD9-9EFA-7DC22F55207C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

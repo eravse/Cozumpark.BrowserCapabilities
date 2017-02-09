@@ -1,0 +1,4 @@
+C:\Users\home\Desktop\Cozumpark.BrowserCapabilities\Cozumpark.BrowserCapabilities\bin\Debug\Cozumpark.BrowserCapabilities.dll
+C:\Users\home\Desktop\Cozumpark.BrowserCapabilities\Cozumpark.BrowserCapabilities\bin\Debug\Cozumpark.BrowserCapabilities.pdb
+C:\Users\home\Desktop\Cozumpark.BrowserCapabilities\Cozumpark.BrowserCapabilities\obj\Debug\Cozumpark.BrowserCapabilities.dll
+C:\Users\home\Desktop\Cozumpark.BrowserCapabilities\Cozumpark.BrowserCapabilities\obj\Debug\Cozumpark.BrowserCapabilities.pdb
